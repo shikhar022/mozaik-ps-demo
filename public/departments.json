@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Finance",
+    "description": "Finance Related Operations"
+  },
+  {
+    "name": "Technology",
+    "description": "Taking the company forward via technology"
+  },
+  {
+    "name": "Operations",
+    "description": "Lets operate the shit out of this company"
+  },
+  {
+  "name": "Admin",
+  "description": "Admin related operations"
+  }
+]
